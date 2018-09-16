@@ -2,7 +2,7 @@
   "name": "reactive_contacts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://biggahd.github.io/reactivecontacts",
+  "homepage": "https://biggahd.github.io/ReactiveContacts",
   "author": "BiggaHD",
   "dependencies": {
     "axios": "^0.18.0",
