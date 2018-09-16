@@ -7,8 +7,8 @@ const Header = props => {
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-info mb-3 py-0">
       <div className="container">
-        <Link to="/ReactiveContacts" className="navbar-brand">
-        <i className="far fa-address-card"></i>{' '} {branding}
+        <Link to="/" className="navbar-brand" style={{fontSize: '1.2rem', color: '#fffff'}}>
+        <i style={{color: '#badbf2'}} className="far fa-address-card fa-2x"></i> {branding}
         </Link>
         <div>
           <ul className="navbar-nav mr-auto">
