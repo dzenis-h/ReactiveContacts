@@ -7,11 +7,8 @@ import Header from './components/layout/Header';
 import About from './components/pages/About';
 import NotFound from './components/pages/NotFound';
 import Test from './components/test/Test';
-
 import { Provider } from './context';
-
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
 
 class App extends Component {
   render() {
@@ -19,7 +16,7 @@ class App extends Component {
       <Provider>
         <Router>
           <div className="App">
-            <Header branding="Contact Manager" />
+            <Header branding="Reactive Contacts" />
             <div className="container">
               <Switch>
                 <Route exact path="/" component={Contacts} />

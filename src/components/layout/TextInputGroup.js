@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 import classnames from 'classnames';
 
 const TextInputGroup = ({
-  label,
   name,
-  value,
-  placeholder,
+  label,
   type,
+  placeholder,
+  value,
   onChange,
   error
 }) => {

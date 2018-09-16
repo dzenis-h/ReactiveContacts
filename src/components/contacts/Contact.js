@@ -37,7 +37,7 @@ class Contact extends Component {
                     })
                   }
                   className="fas fa-sort-down"
-                  style={{ cursor: 'pointer' }}
+                  style={{ cursor: 'pointer', color: 'green', fontSize: '1.1rem' }}
                 />
                 <i
                   className="fas fa-times"
@@ -50,8 +50,10 @@ class Contact extends Component {
                     style={{
                       cursor: 'pointer',
                       float: 'right',
-                      color: 'black',
-                      marginRight: '1rem'
+                      color: '#17a2b8',
+                      marginRight: '1rem',
+                      marginTop: '0.2rem',
+                      fontSize: '1.2rem'
                     }}
                   />
                 </Link>
