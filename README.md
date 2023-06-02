@@ -29,7 +29,7 @@ This project is licensed under the MIT License. You can find more information ab
 ## Deployed 🚀
 It's deployed using [gh-pages](https://pages.github.com). 
 
-You can visit the deployed version of the app [here](https://biggahd.github.io/ReactiveContacts).
+You can visit the deployed version of the app [here](https://dzenis-h.github.io/ReactiveContacts/#/).
 
 ## Credits 🧐
 Reactive Contacts was created by [Dzenis H.](https://www.dzenis.tech)
